@@ -1,0 +1,47 @@
+name: obatin_app
+description: A new Flutter application.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  provider: ^4.3.2+2
+  get: ^3.17.1
+  flutter_icons: ^1.1.0
+  flutter_svg: ^0.18.0
+  google_fonts: ^1.1.1
+  carousel_pro: ^1.0.0
+  font_awesome_flutter: ^8.10.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/logo.png
+    - images/logo2.png
+    - images/icons/security.svg
+    - images/icons/checklist.svg
+    - images/iklan/iklan1.png
+    - images/iklan/iklan2.png
+    - images/iklan/iklan3.png
+    - images/icons/kategori/diarrhea.png
+    - images/icons/kategori/fever.png
+    - images/icons/kategori/medicaldevice.png
+    - images/icons/kategori/medicine.png
+    - images/icons/kategori/milkbottle.png
+    - images/icons/kategori/sneezing.png
+    - images/icons/kategori/ulcer.png
+    - images/icons/kategori/proteins.png
+    - images/icons/kategori/discover.png
+    - images/icons/contoh_obat.png
+    - images/icons/checked.png
