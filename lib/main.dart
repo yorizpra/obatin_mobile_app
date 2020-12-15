@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:obatin_app/halaman/splash/splash.dart';
 import 'package:obatin_app/validasi/validasi_daftar.dart';
-import 'package:obatin_app/widget/nav_bar_bot.dart';
 import 'file:///C:/Users/arief/AndroidStudioProjects/obatin_app/lib/halaman/login/validasi_login.dart';
 import 'package:provider/provider.dart';
 
@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget{
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
-        home: NavBar(),
+        home: Splash(),
       ),
     );
   }

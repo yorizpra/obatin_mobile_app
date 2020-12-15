@@ -4,7 +4,6 @@ import 'file:///C:/Users/arief/AndroidStudioProjects/obatin_app/lib/bantuan/cons
 import 'package:obatin_app/halaman/halaman_daftar.dart';
 import 'package:obatin_app/halaman/login/login_berhasil.dart';
 import 'file:///C:/Users/arief/AndroidStudioProjects/obatin_app/lib/halaman/lupa_password/lupa_password.dart';
-import 'file:///C:/Users/arief/AndroidStudioProjects/obatin_app/lib/widget/nav_bar_bot.dart';
 import 'file:///C:/Users/arief/AndroidStudioProjects/obatin_app/lib/halaman/login/validasi_login.dart';
 import 'package:obatin_app/widget/raised_button_widget.dart';
 import 'package:obatin_app/widget/text_form_field_widget.dart';

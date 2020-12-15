@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:obatin_app/bantuan/constants.dart';
-import 'package:obatin_app/halaman/akun.dart';
+import 'file:///C:/Users/arief/AndroidStudioProjects/obatin_app/lib/halaman/akun/akun.dart';
 import 'package:obatin_app/halaman/keranjang/keranjang.dart';
-import 'package:obatin_app/halaman/layanan.dart';
+import 'file:///C:/Users/arief/AndroidStudioProjects/obatin_app/lib/halaman/layanan/layanan.dart';
 import 'package:obatin_app/home/home.dart';
 
 class NavBar extends StatefulWidget{

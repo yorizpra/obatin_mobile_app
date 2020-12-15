@@ -21,7 +21,7 @@ class Body extends StatelessWidget{
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Text("Cari Berdasarkan Kategori", style: GoogleFonts.varelaRound(fontSize: 18, fontWeight: FontWeight.w600),),
+                    Text("Cari Berdasarkan Kategori", style: GoogleFonts.varelaRound(fontSize: 18.0, fontWeight: FontWeight.w600),),
                   ],
                 ),
               ),

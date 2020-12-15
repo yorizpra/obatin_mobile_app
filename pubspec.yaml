@@ -45,3 +45,6 @@ flutter:
     - images/icons/kategori/discover.png
     - images/icons/contoh_obat.png
     - images/icons/checked.png
+    - images/icons/layanan/checklist.png
+    - images/icons/layanan/history.png
+    - images/icons/layanan/help.png
