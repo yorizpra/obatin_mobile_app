@@ -8,7 +8,7 @@ class Profil extends StatelessWidget{
     return Scaffold(
       appBar: AppBar(
         backgroundColor: kPrimaryColor,
-        title: Text('Profil'),
+        title: Text('Edit Profil'),
       ),
     );
   }
